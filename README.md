@@ -147,7 +147,3 @@ All sports from both school:
 ```
 
 ---
-
-# Result
-
-The Python programs successfully demonstrate set operations such as creating sets, adding elements, finding common elements using intersection, and combining sets using union.
